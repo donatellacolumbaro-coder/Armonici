@@ -1,1 +1,1 @@
-streamlitnumpyplotly
+streamlit numpy plotly
